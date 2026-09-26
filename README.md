@@ -47,12 +47,17 @@ Market structure → candlestick → trend → support/resistance → volume →
 ### Level 5 — Keuangan Islam
 Jual beli → kerelaan → amanah → riba → gharar → maysir → penipuan/tadlis → akad → kepemilikan → saham syariah → mekanisme transaksi.
 
-### Level 6 — Filosofi dan realitas
-Filosofi uang → kekayaan sebagai amanah → konsumsi vs investasi → risiko → ketidakpastian → perbedaan harga dan nilai → disiplin → pengambilan keputusan.
+> Filosofi dan realitas pasar bukan level keenam. Keduanya menjadi lapisan berpikir yang diterapkan pada seluruh lima level.
 
 ## Struktur
 
-- `docs/foundations.md` — fondasi uang, bisnis, saham, investasi, trading, filosofi, dan realitas.
+- `docs/learning-roadmap.md` — kurikulum utama lima level, urutan, tujuan, milestone, dan aturan pengembangan knowledge base.
+- `docs/level-1-foundations.md` — Level 1: fondasi ekonomi dan bisnis.
+- `docs/level-2-stocks-and-markets.md` — Level 2: saham dan mekanisme pasar.
+- `docs/level-3-investing-and-fundamentals.md` — Level 3: investasi, fundamental, dan valuasi.
+- `docs/level-4-trading-and-risk.md` — Level 4: trading, probabilitas, dan manajemen risiko.
+- `docs/level-5-islamic-finance.md` — Level 5: evaluasi transaksi dan prinsip keuangan Islam.
+- `docs/foundations.md` — catatan fondasi dan pembahasan awal.
 - `docs/islamic-principles.md` — ayat, hadis, dan prinsip syariah yang dibahas.
 - `research/` — penelitian dan studi kasus yang akan ditambahkan.
 - `glossary/` — istilah-istilah penting.
@@ -60,7 +65,7 @@ Filosofi uang → kekayaan sebagai amanah → konsumsi vs investasi → risiko �
 
 ## Status
 
-Fondasi awal berdasarkan pembahasan pertama telah dicatat. Materi berikutnya harus ditambahkan secara bertahap dan diverifikasi, terutama untuk klaim fikih, status hadis, regulasi, dan data pasar.
+Kurikulum lima level telah dicatat sebagai urutan belajar utama. Materi harus dikembangkan bertahap dari Level 1 sampai Level 5 dan diverifikasi, terutama untuk klaim fikih, status hadis, regulasi, dan data pasar. Repository ini menjadi sumber konteks utama pembelajaran sehingga konsep baru harus dihubungkan dengan struktur lima level.
 
 ## Catatan penting
 
